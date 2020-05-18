@@ -5,6 +5,10 @@
 
 Aplikasi untuk mendata input bantuan/donasi saat pandemi COVID-19. Donasi dapat bermacam-macam jenis, dan bisa juga mengajukan lebih dari satu donasi sekaligus.
 
+#### Note: 
+1. Repository ini harus dijalankan di dalam folder local directory 'hellomvc'
+2. Jika ada masalah dengan .htaccess, bisa menggunakan 'public.zip' yang bisa di extract pada repository ini.
+
 ### Fitur aplikasi 
 
 #### 1. Navigation Bar 
