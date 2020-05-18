@@ -8,6 +8,7 @@ Aplikasi untuk mendata input bantuan/donasi saat pandemi COVID-19.
 
 Fitur aplikasi 
 1. Navigation Bar 
+<img src="https://github.com/robbyirvine/hellomvc/blob/master/sc/Donate.png">
 Fitur ini digunakan untuk mengakses halaman input digunakan untuk memasukkan data berupa Nama, Jenis Kelamin, Tipe donasi, dan Jumlah donasi. Dan juga untuk mengakses halaman output yang digunakan untuk mendata siapa saja yang telah melakukan donasi tersebut. 
 
 2. Halaman Donate
