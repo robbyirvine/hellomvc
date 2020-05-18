@@ -22,3 +22,7 @@ Fitur ini digunakan untuk memasukkan data berupa Nama, Jenis Kelamin, Tipe donas
 #### 3. Halaman Donate List
 <img src="https://github.com/robbyirvine/hellomvc/blob/master/sc/DonateList.png">
 Fitur ini digunakan untuk melihat data-data yang telah dimasukkan pada halaman Donate. Untuk mempermudah pencarian, tersedia Search Bar, dan juga Filter Bar. Dan untuk membuat halaman tidak begitu panjang, terdapat fitur scroll halaman di pojok kanan bawah.
+
+#### 4. Error Message
+<img src="https://github.com/robbyirvine/hellomvc/blob/master/sc/Screenshot%20(8).png">
+Fitur ini akan muncul jika input yang di submit dikosongkan. 
