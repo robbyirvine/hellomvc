@@ -1,9 +1,9 @@
-# EAS PemrogramanIntegratif
+# EAS Pemrograman Integratif
 
 #### Robby Irvine Surya - 05311840000023
 
 
-Aplikasi untuk mendata input bantuan/donasi saat pandemi COVID-19.
+Aplikasi untuk mendata input bantuan/donasi saat pandemi COVID-19. Donasi dapat bermacam-macam jenis, dan bisa juga mengajukan lebih dari satu donasi sekaligus.
 
 ### Fitur aplikasi 
 
